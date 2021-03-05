@@ -1,16 +1,17 @@
-id: opecha:P007912
+id: P007912
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7478
   title: རྒྱུད་ལུགས་འཇམ་དཔལ་ཞི་བའི་སྒྲུབ་ཐབས།
-  volume:
+  author: ''
+  volumes:
     3b5c7f39a234438595e96fd914e5b688:
       image_group_id: I3CN7480
       title: Volume 1 of rgyud lugs 'jam dpal zhi ba'i sgrub thabs ye shes snang ba
         mchog grub/
       volume_number: 1
       total_pages: 445
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྒྱུད་ལུགས་འཇམ་དཔལ་ཞི་བའི་སྒྲུབ་ཐབས།
   author: ''
